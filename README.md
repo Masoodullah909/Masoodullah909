@@ -1,4 +1,5 @@
-![MasterHead](https://www.canva.com/design/DAFYwC2sID4/ZcSIHwwPi_gfYqQ68674MA/watch?utm_content=DAFYwC2sID4&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel)
+![MasterHead](https://github.com/Masoodullah909/Computer-Vision-OpenCV-/blob/master/resources/Data-Science.gif)
+
 
 
 
