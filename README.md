@@ -2,7 +2,7 @@
 <h3 align="center">Pursuing my passion for Data Science and Physics</h3>
 
 <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="400" align="right" alt="Coding">
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+
 
 <p align="left"> <a href="https://twitter.com/masoodullah909" target="blank"><img src="https://img.shields.io/twitter/follow/masoodullah909?logo=twitter&style=for-the-badge" alt="masoodullah909" /></a> </p>
 
