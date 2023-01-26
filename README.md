@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Masood Ullah</h1>
 <h3 align="center">Pursuing my passion for Data Science and Physics</h3>
-<div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-<img align="right" alt="Coding" width="400 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"S>
+
+<img align="right" alt="Coding" width="400 src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <a href="https://twitter.com/masoodullah909" target="blank"><img src="https://img.shields.io/twitter/follow/masoodullah909?logo=twitter&style=for-the-badge" alt="masoodullah909" /></a> </p>
 
