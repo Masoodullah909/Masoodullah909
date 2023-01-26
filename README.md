@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Masoodullah909/Computer-Vision-OpenCV-/blob/master/resources/Data-Science.gif" width="1050" height="300" alt="MasterHead">
+<img src="https://github.com/Masoodullah909/Computer-Vision-OpenCV-/blob/master/resources/Data-Science.gif" width="1050" height="200" alt="MasterHead">
 
 
 
