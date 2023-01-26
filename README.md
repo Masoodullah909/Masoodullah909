@@ -1,5 +1,5 @@
-![MasterHead](https://github.com/Masoodullah909/Computer-Vision-OpenCV-/blob/master/resources/Data-Science.gif)
 
+<img src="https://github.com/Masoodullah909/Computer-Vision-OpenCV-/blob/master/resources/Data-Science.gif" width="1000" alt="MasterHead">
 
 
 
