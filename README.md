@@ -2,9 +2,6 @@
 <h3 align="center">Pursuing my passion for Data Science and Physics</h3>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoodullah909" alt="masoodullah909" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/masoodullah909" target="blank"><img src="https://img.shields.io/twitter/follow/masoodullah909?logo=twitter&style=for-the-badge" alt="masoodullah909" /></a> </p>
 
 - 🔭 I’m Recently a core team member [Smartathon by SDAIA, gaining experience in codanics.](https://smartathon.hackerearth.com/challenges/hackathon/smartathon-2/dashboard/4ec5422/team/)
